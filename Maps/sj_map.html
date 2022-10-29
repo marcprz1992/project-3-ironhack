@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_49737d8fe60b192399af23a541b86381 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_49737d8fe60b192399af23a541b86381" ></div>
+        
+</body>
+<script>    
+    
+            var map_49737d8fe60b192399af23a541b86381 = L.map(
+                "map_49737d8fe60b192399af23a541b86381",
+                {
+                    center: [37.295005, -121.930035],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 15,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_08cabac6c766192d128b632108323fbd = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_49737d8fe60b192399af23a541b86381);
+        
+    
+            var marker_3345b70e289ec707143c5da99d244fad = L.marker(
+                [37.295005, -121.930035],
+                {"radius": 2}
+            ).addTo(map_49737d8fe60b192399af23a541b86381);
+        
+    
+            var icon_ab66c7ed84da7375ff12ceb65cd43311 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "briefcase", "iconColor": "black", "markerColor": "green", "opacity": 0.6, "prefix": "fa"}
+            );
+            marker_3345b70e289ec707143c5da99d244fad.setIcon(icon_ab66c7ed84da7375ff12ceb65cd43311);
+        
+    
+            marker_3345b70e289ec707143c5da99d244fad.bindTooltip(
+                `<div>
+                     company 1
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_af3f7d5f1809b3b9693f8b160805cde1 = L.marker(
+                [37.408802, -121.95377],
+                {"radius": 2}
+            ).addTo(map_49737d8fe60b192399af23a541b86381);
+        
+    
+            var icon_cde5d16ff95841daa0ffccdd58e5ac96 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "briefcase", "iconColor": "black", "markerColor": "green", "opacity": 0.6, "prefix": "fa"}
+            );
+            marker_af3f7d5f1809b3b9693f8b160805cde1.setIcon(icon_cde5d16ff95841daa0ffccdd58e5ac96);
+        
+    
+            marker_af3f7d5f1809b3b9693f8b160805cde1.bindTooltip(
+                `<div>
+                     company 2
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_348f8bd357841a4b30373dc28dcf32d5 = L.marker(
+                [37.320052, -121.877636],
+                {"radius": 2}
+            ).addTo(map_49737d8fe60b192399af23a541b86381);
+        
+    
+            var icon_087eec62798b008ec39cbe157fd40727 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "briefcase", "iconColor": "black", "markerColor": "green", "opacity": 0.6, "prefix": "fa"}
+            );
+            marker_348f8bd357841a4b30373dc28dcf32d5.setIcon(icon_087eec62798b008ec39cbe157fd40727);
+        
+    
+            marker_348f8bd357841a4b30373dc28dcf32d5.bindTooltip(
+                `<div>
+                     company 3
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_3f4617c04cedf02c8ff3308e9a63563d = L.marker(
+                [37.294465, -121.927696],
+                {"radius": 2}
+            ).addTo(map_49737d8fe60b192399af23a541b86381);
+        
+    
+            var icon_7c409c25562ca97c2f26a8e337f7af0d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "briefcase", "iconColor": "black", "markerColor": "green", "opacity": 0.6, "prefix": "fa"}
+            );
+            marker_3f4617c04cedf02c8ff3308e9a63563d.setIcon(icon_7c409c25562ca97c2f26a8e337f7af0d);
+        
+    
+            marker_3f4617c04cedf02c8ff3308e9a63563d.bindTooltip(
+                `<div>
+                     company 4
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
