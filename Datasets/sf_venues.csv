@@ -1,0 +1,72 @@
+,name,lat,lon,type,geometry,category
+0,San Francisco International Airport (SFO),37.624123,-122.395506,"{'typepoint': {'type': 'Point', 'coordinates': [37.624123, -122.395506]}}",POINT (-122.395506 37.624123),airport
+1,Oakland International Airport (OAK),37.7117,-122.212997,"{'typepoint': {'type': 'Point', 'coordinates': [37.7117, -122.212997]}}",POINT (-122.212997 37.7117),airport
+0,Starbucks,37.788371,-122.393555,"{'typepoint': {'type': 'Point', 'coordinates': [37.788371, -122.393555]}}",POINT (-122.393555 37.788371),starbucks
+1,Starbucks,37.793818,-122.396678,"{'typepoint': {'type': 'Point', 'coordinates': [37.793818, -122.396678]}}",POINT (-122.396678 37.793818),starbucks
+2,Starbucks,37.791317,-122.39224,"{'typepoint': {'type': 'Point', 'coordinates': [37.791317, -122.39224]}}",POINT (-122.39224 37.791317),starbucks
+3,Starbucks,37.793025,-122.39978,"{'typepoint': {'type': 'Point', 'coordinates': [37.793025, -122.39978]}}",POINT (-122.39978 37.793025),starbucks
+4,Starbucks,37.791223,-122.392146,"{'typepoint': {'type': 'Point', 'coordinates': [37.791223, -122.392146]}}",POINT (-122.392146 37.791223),starbucks
+5,Starbucks Reserve,37.791487,-122.395101,"{'typepoint': {'type': 'Point', 'coordinates': [37.791487, -122.395101]}}",POINT (-122.395101 37.791487),starbucks
+6,Starbucks,37.789562,-122.39764,"{'typepoint': {'type': 'Point', 'coordinates': [37.789562, -122.39764]}}",POINT (-122.39764 37.789562),starbucks
+7,Starbucks,37.79199,-122.398357,"{'typepoint': {'type': 'Point', 'coordinates': [37.79199, -122.398357]}}",POINT (-122.398357 37.79199),starbucks
+0,Sweetgreen,37.787182,-122.398432,"{'typepoint': {'type': 'Point', 'coordinates': [37.787182, -122.398432]}}",POINT (-122.398432 37.787182),vegan
+1,Sweetgreen,37.789634,-122.391765,"{'typepoint': {'type': 'Point', 'coordinates': [37.789634, -122.391765]}}",POINT (-122.391765 37.789634),vegan
+2,Tender,37.786329,-122.417353,"{'typepoint': {'type': 'Point', 'coordinates': [37.786329, -122.417353]}}",POINT (-122.417353 37.786329),vegan
+3,The Flying Falafel,37.78124,-122.411217,"{'typepoint': {'type': 'Point', 'coordinates': [37.78124, -122.411217]}}",POINT (-122.411217 37.78124),vegan
+4,Enjoy Vegetarian Restaurant,37.795717,-122.405173,"{'typepoint': {'type': 'Point', 'coordinates': [37.795717, -122.405173]}}",POINT (-122.405173 37.795717),vegan
+5,Pena Pachamama,37.799682,-122.410569,"{'typepoint': {'type': 'Point', 'coordinates': [37.799682, -122.410569]}}",POINT (-122.410569 37.799682),vegan
+6,Mixt Greens,37.79451,-122.401732,"{'typepoint': {'type': 'Point', 'coordinates': [37.79451, -122.401732]}}",POINT (-122.401732 37.79451),vegan
+7,Ananda Fuara,37.77789,-122.416164,"{'typepoint': {'type': 'Point', 'coordinates': [37.77789, -122.416164]}}",POINT (-122.416164 37.77789),vegan
+8,Ike's Sandwiches,37.78512,-122.419889,"{'typepoint': {'type': 'Point', 'coordinates': [37.78512, -122.419889]}}",POINT (-122.419889 37.78512),vegan
+9,The Thonglor,37.787265,-122.410194,"{'typepoint': {'type': 'Point', 'coordinates': [37.787265, -122.410194]}}",POINT (-122.410194 37.787265),vegan
+10,Delica rf-1,37.795466,-122.393471,"{'typepoint': {'type': 'Point', 'coordinates': [37.795466, -122.393471]}}",POINT (-122.393471 37.795466),vegan
+11,Golden Era Vegan Restaurant,37.781359,-122.416942,"{'typepoint': {'type': 'Point', 'coordinates': [37.781359, -122.416942]}}",POINT (-122.416942 37.781359),vegan
+12,Thai Idea Vegetarian Restaurant,37.783391,-122.418998,"{'typepoint': {'type': 'Point', 'coordinates': [37.783391, -122.418998]}}",POINT (-122.418998 37.783391),vegan
+13,Mixt,37.785581,-122.404432,"{'typepoint': {'type': 'Point', 'coordinates': [37.785581, -122.404432]}}",POINT (-122.404432 37.785581),vegan
+14,Donut Farm,37.795336,-122.393463,"{'typepoint': {'type': 'Point', 'coordinates': [37.795336, -122.393463]}}",POINT (-122.393463 37.795336),vegan
+15,The Plant Cafe Organic,37.79175,-122.402358,"{'typepoint': {'type': 'Point', 'coordinates': [37.79175, -122.402358]}}",POINT (-122.402358 37.79175),vegan
+16,The Lucky Creation Vegetarian Restaurant,37.795174,-122.407148,"{'typepoint': {'type': 'Point', 'coordinates': [37.795174, -122.407148]}}",POINT (-122.407148 37.795174),vegan
+17,Nourish Cafe,37.790628,-122.41706,"{'typepoint': {'type': 'Point', 'coordinates': [37.790628, -122.41706]}}",POINT (-122.41706 37.790628),vegan
+18,Cafe Insalata,37.796743,-122.399856,"{'typepoint': {'type': 'Point', 'coordinates': [37.796743, -122.399856]}}",POINT (-122.399856 37.796743),vegan
+19,Hodo Soy Beanery,37.795417,-122.393683,"{'typepoint': {'type': 'Point', 'coordinates': [37.795417, -122.393683]}}",POINT (-122.393683 37.795417),vegan
+20,Vida Cantina SF,37.79146,-122.403704,"{'typepoint': {'type': 'Point', 'coordinates': [37.79146, -122.403704]}}",POINT (-122.403704 37.79146),vegan
+21,Thai Basil Cart,37.776768,-122.402622,"{'typepoint': {'type': 'Point', 'coordinates': [37.776768, -122.402622]}}",POINT (-122.402622 37.776768),vegan
+22,Ginger Bowls,37.776849,-122.402842,"{'typepoint': {'type': 'Point', 'coordinates': [37.776849, -122.402842]}}",POINT (-122.402842 37.776849),vegan
+23,Vegan Picnic Polk St,37.788859,-122.42054,"{'typepoint': {'type': 'Point', 'coordinates': [37.788859, -122.42054]}}",POINT (-122.42054 37.788859),vegan
+24,Rangoon Ruby,37.780924,-122.420071,"{'typepoint': {'type': 'Point', 'coordinates': [37.780924, -122.420071]}}",POINT (-122.420071 37.780924),vegan
+25,SF Brew Fest N' Vegan Eats Invitational,37.785634,-122.393036,"{'typepoint': {'type': 'Point', 'coordinates': [37.785634, -122.393036]}}",POINT (-122.393036 37.785634),vegan
+26,Plant B,37.776829,-122.402645,"{'typepoint': {'type': 'Point', 'coordinates': [37.776829, -122.402645]}}",POINT (-122.402645 37.776829),vegan
+27,Millenium Restaurant,37.78688,-122.412957,"{'typepoint': {'type': 'Point', 'coordinates': [37.78688, -122.412957]}}",POINT (-122.412957 37.78688),vegan
+28,Graze Salad Bar,37.781898,-122.411168,"{'typepoint': {'type': 'Point', 'coordinates': [37.781898, -122.411168]}}",POINT (-122.411168 37.781898),vegan
+29,Millennium,37.780736,-122.416117,"{'typepoint': {'type': 'Point', 'coordinates': [37.780736, -122.416117]}}",POINT (-122.416117 37.780736),vegan
+0,Pawtrero Hill BathHouse & Feed,37.78382,-122.389322,"{'typepoint': {'type': 'Point', 'coordinates': [37.78382, -122.389322]}}",POINT (-122.389322 37.78382),petcare
+1,Bernie's Grooming City Dogs,37.783824,-122.389344,"{'typepoint': {'type': 'Point', 'coordinates': [37.783824, -122.389344]}}",POINT (-122.389344 37.783824),petcare
+2,Bow Wow Meow,37.796544,-122.421711,"{'typepoint': {'type': 'Point', 'coordinates': [37.796544, -122.421711]}}",POINT (-122.421711 37.796544),petcare
+3,Healthy Spot,37.772602,-122.391695,"{'typepoint': {'type': 'Point', 'coordinates': [37.772602, -122.391695]}}",POINT (-122.391695 37.772602),petcare
+4,Wags Pet Wash & Boutique,37.793742,-122.421187,"{'typepoint': {'type': 'Point', 'coordinates': [37.793742, -122.421187]}}",POINT (-122.421187 37.793742),petcare
+5,Furry Tales,37.776754,-122.392943,"{'typepoint': {'type': 'Point', 'coordinates': [37.776754, -122.392943]}}",POINT (-122.392943 37.776754),petcare
+6,Doggie Day Spaw,37.778665,-122.40259,"{'typepoint': {'type': 'Point', 'coordinates': [37.778665, -122.40259]}}",POINT (-122.40259 37.778665),petcare
+7,Coiffure,37.771253,-122.38925,"{'typepoint': {'type': 'Point', 'coordinates': [37.771253, -122.38925]}}",POINT (-122.38925 37.771253),petcare
+8,Doggie Day Spaw,37.799227,-122.409681,"{'typepoint': {'type': 'Point', 'coordinates': [37.799227, -122.409681]}}",POINT (-122.409681 37.799227),petcare
+9,Tefani & So. Dogcare,37.772824,-122.410202,"{'typepoint': {'type': 'Point', 'coordinates': [37.772824, -122.410202]}}",POINT (-122.410202 37.772824),petcare
+10,Russian Hill Dog Grooming,37.798507,-122.419103,"{'typepoint': {'type': 'Point', 'coordinates': [37.798507, -122.419103]}}",POINT (-122.419103 37.798507),petcare
+11,South Paw Bathhouse Feed Co.,37.783786,-122.389414,"{'typepoint': {'type': 'Point', 'coordinates': [37.783786, -122.389414]}}",POINT (-122.389414 37.783786),petcare
+12,Tefani & So. Dogcare,37.787193,-122.39915,"{'typepoint': {'type': 'Point', 'coordinates': [37.787193, -122.39915]}}",POINT (-122.39915 37.787193),petcare
+13,Benny & Suki’s,37.788525,-122.416362,"{'typepoint': {'type': 'Point', 'coordinates': [37.788525, -122.416362]}}",POINT (-122.416362 37.788525),petcare
+14,Wags,37.793872,-122.421194,"{'typepoint': {'type': 'Point', 'coordinates': [37.793872, -122.421194]}}",POINT (-122.421194 37.793872),petcare
+15,Who Let the Dogs Out,37.793525,-122.421461,"{'typepoint': {'type': 'Point', 'coordinates': [37.793525, -122.421461]}}",POINT (-122.421461 37.793525),petcare
+0,Berry Basketball Courts,37.772031,-122.397898,"{'typepoint': {'type': 'Point', 'coordinates': [37.772031, -122.397898]}}",POINT (-122.397898 37.772031),basketball
+1,Soma Rec Center,37.778838,-122.406328,"{'typepoint': {'type': 'Point', 'coordinates': [37.778838, -122.406328]}}",POINT (-122.406328 37.778838),basketball
+2,Arterra Mission Bay,37.771896,-122.397532,"{'typepoint': {'type': 'Point', 'coordinates': [37.771896, -122.397532]}}",POINT (-122.397532 37.771896),basketball
+3,Alice Marble Basketball Court,37.801395,-122.420205,"{'typepoint': {'type': 'Point', 'coordinates': [37.801395, -122.420205]}}",POINT (-122.420205 37.801395),basketball
+4,NBA Nation,37.759168,-122.412335,"{'typepoint': {'type': 'Point', 'coordinates': [37.759168, -122.412335]}}",POINT (-122.412335 37.759168),basketball
+5,Hamilton Basketball Courts,37.784569,-122.435625,"{'typepoint': {'type': 'Point', 'coordinates': [37.784569, -122.435625]}}",POINT (-122.435625 37.784569),basketball
+6,Dolores Park Basketball Courts,37.760956,-122.427849,"{'typepoint': {'type': 'Point', 'coordinates': [37.760956, -122.427849]}}",POINT (-122.427849 37.760956),basketball
+7,Golden Gate Park Panhandle Basketball Courts,37.771955,-122.445915,"{'typepoint': {'type': 'Point', 'coordinates': [37.771955, -122.445915]}}",POINT (-122.445915 37.771955),basketball
+8,Douglass Basketball Court,37.751913,-122.43885,"{'typepoint': {'type': 'Point', 'coordinates': [37.751913, -122.43885]}}",POINT (-122.43885 37.751913),basketball
+9,Bernal Heights Recreation Center,37.738385,-122.416197,"{'typepoint': {'type': 'Point', 'coordinates': [37.738385, -122.416197]}}",POINT (-122.416197 37.738385),basketball
+10,Al Kerr Court,37.763735,-122.45811,"{'typepoint': {'type': 'Point', 'coordinates': [37.763735, -122.45811]}}",POINT (-122.45811 37.763735),basketball
+11,Bay City Basketball Headquarters,37.781086,-122.468411,"{'typepoint': {'type': 'Point', 'coordinates': [37.781086, -122.468411]}}",POINT (-122.468411 37.781086),basketball
+12,Baker Beach half court,37.791371,-122.480608,"{'typepoint': {'type': 'Point', 'coordinates': [37.791371, -122.480608]}}",POINT (-122.480608 37.791371),basketball
+13,Basketball Courts,37.711444,-122.418046,"{'typepoint': {'type': 'Point', 'coordinates': [37.711444, -122.418046]}}",POINT (-122.418046 37.711444),basketball
+14,Panhandle Basketball Courts,37.768679,-122.453452,"{'typepoint': {'type': 'Point', 'coordinates': [37.768679, -122.453452]}}",POINT (-122.453452 37.768679),basketball

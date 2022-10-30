@@ -1,0 +1,174 @@
+,name,lat,lon,type,geometry,category
+0,John F. Kennedy International Airport (JFK),40.640721,-73.789347,"{'typepoint': {'type': 'Point', 'coordinates': [40.640721, -73.789347]}}",POINT (-73.789347 40.640721),airport
+1,LaGuardia Airport (LGA),40.774546,-73.873296,"{'typepoint': {'type': 'Point', 'coordinates': [40.774546, -73.873296]}}",POINT (-73.873296 40.774546),airport
+2,Newark Liberty International Airport (EWR),40.690377,-74.177145,"{'typepoint': {'type': 'Point', 'coordinates': [40.690377, -74.177145]}}",POINT (-74.177145 40.690377),airport
+0,Starbucks,40.755564,-73.976688,"{'typepoint': {'type': 'Point', 'coordinates': [40.755564, -73.976688]}}",POINT (-73.976688 40.755564),starbucks
+1,Starbucks,40.755354,-73.974452,"{'typepoint': {'type': 'Point', 'coordinates': [40.755354, -73.974452]}}",POINT (-73.974452 40.755354),starbucks
+2,Starbucks,40.754338,-73.987245,"{'typepoint': {'type': 'Point', 'coordinates': [40.754338, -73.987245]}}",POINT (-73.987245 40.754338),starbucks
+3,Starbucks,40.759705,-73.985194,"{'typepoint': {'type': 'Point', 'coordinates': [40.759705, -73.985194]}}",POINT (-73.985194 40.759705),starbucks
+4,Starbucks,40.75672,-73.985819,"{'typepoint': {'type': 'Point', 'coordinates': [40.75672, -73.985819]}}",POINT (-73.985819 40.75672),starbucks
+5,Starbucks,40.757695,-73.979698,"{'typepoint': {'type': 'Point', 'coordinates': [40.757695, -73.979698]}}",POINT (-73.979698 40.757695),starbucks
+6,Starbucks,40.760463,-73.987102,"{'typepoint': {'type': 'Point', 'coordinates': [40.760463, -73.987102]}}",POINT (-73.987102 40.760463),starbucks
+7,Starbucks,40.757013,-73.980982,"{'typepoint': {'type': 'Point', 'coordinates': [40.757013, -73.980982]}}",POINT (-73.980982 40.757013),starbucks
+8,Starbucks,40.759743,-73.973793,"{'typepoint': {'type': 'Point', 'coordinates': [40.759743, -73.973793]}}",POINT (-73.973793 40.759743),starbucks
+9,Starbucks,40.756755,-73.972541,"{'typepoint': {'type': 'Point', 'coordinates': [40.756755, -73.972541]}}",POINT (-73.972541 40.756755),starbucks
+10,Starbucks,40.754301,-73.971484,"{'typepoint': {'type': 'Point', 'coordinates': [40.754301, -73.971484]}}",POINT (-73.971484 40.754301),starbucks
+11,Starbucks,40.749101,-73.983799,"{'typepoint': {'type': 'Point', 'coordinates': [40.749101, -73.983799]}}",POINT (-73.983799 40.749101),starbucks
+12,Starbucks,40.751762,-73.977588,"{'typepoint': {'type': 'Point', 'coordinates': [40.751762, -73.977588]}}",POINT (-73.977588 40.751762),starbucks
+13,Starbucks,40.762911,-73.972344,"{'typepoint': {'type': 'Point', 'coordinates': [40.762911, -73.972344]}}",POINT (-73.972344 40.762911),starbucks
+14,Starbucks,40.758741,-73.978909,"{'typepoint': {'type': 'Point', 'coordinates': [40.758741, -73.978909]}}",POINT (-73.978909 40.758741),starbucks
+15,Starbucks,40.758325,-73.974349,"{'typepoint': {'type': 'Point', 'coordinates': [40.758325, -73.974349]}}",POINT (-73.974349 40.758325),starbucks
+16,Starbucks,40.750863,-73.974932,"{'typepoint': {'type': 'Point', 'coordinates': [40.750863, -73.974932]}}",POINT (-73.974932 40.750863),starbucks
+17,Starbucks,40.75637,-73.990786,"{'typepoint': {'type': 'Point', 'coordinates': [40.75637, -73.990786]}}",POINT (-73.990786 40.75637),starbucks
+18,Starbucks,40.750585,-73.979246,"{'typepoint': {'type': 'Point', 'coordinates': [40.750585, -73.979246]}}",POINT (-73.979246 40.750585),starbucks
+19,Starbucks,40.75744,-73.969116,"{'typepoint': {'type': 'Point', 'coordinates': [40.75744, -73.969116]}}",POINT (-73.969116 40.75744),starbucks
+20,Starbucks,40.757041,-73.975916,"{'typepoint': {'type': 'Point', 'coordinates': [40.757041, -73.975916]}}",POINT (-73.975916 40.757041),starbucks
+21,Starbucks,40.750966,-73.987079,"{'typepoint': {'type': 'Point', 'coordinates': [40.750966, -73.987079]}}",POINT (-73.987079 40.750966),starbucks
+22,Starbucks,40.761794,-73.979771,"{'typepoint': {'type': 'Point', 'coordinates': [40.761794, -73.979771]}}",POINT (-73.979771 40.761794),starbucks
+23,Starbucks,40.760518,-73.987061,"{'typepoint': {'type': 'Point', 'coordinates': [40.760518, -73.987061]}}",POINT (-73.987061 40.760518),starbucks
+24,Starbucks,40.761845,-73.98187,"{'typepoint': {'type': 'Point', 'coordinates': [40.761845, -73.98187]}}",POINT (-73.98187 40.761845),starbucks
+25,Starbucks,40.753905,-73.978685,"{'typepoint': {'type': 'Point', 'coordinates': [40.753905, -73.978685]}}",POINT (-73.978685 40.753905),starbucks
+26,Starbucks,40.76369,-73.977486,"{'typepoint': {'type': 'Point', 'coordinates': [40.76369, -73.977486]}}",POINT (-73.977486 40.76369),starbucks
+27,Starbucks,40.760886,-73.97943,"{'typepoint': {'type': 'Point', 'coordinates': [40.760886, -73.97943]}}",POINT (-73.97943 40.760886),starbucks
+28,Starbucks,40.764562,-73.98119,"{'typepoint': {'type': 'Point', 'coordinates': [40.764562, -73.98119]}}",POINT (-73.98119 40.764562),starbucks
+29,Starbucks,40.753573,-73.988448,"{'typepoint': {'type': 'Point', 'coordinates': [40.753573, -73.988448]}}",POINT (-73.988448 40.753573),starbucks
+30,Starbucks,40.75496,-73.973039,"{'typepoint': {'type': 'Point', 'coordinates': [40.75496, -73.973039]}}",POINT (-73.973039 40.75496),starbucks
+31,Starbucks,40.761936,-73.986505,"{'typepoint': {'type': 'Point', 'coordinates': [40.761936, -73.986505]}}",POINT (-73.986505 40.761936),starbucks
+32,Starbucks,40.755525,-73.980137,"{'typepoint': {'type': 'Point', 'coordinates': [40.755525, -73.980137]}}",POINT (-73.980137 40.755525),starbucks
+33,Starbucks,40.748988,-73.982415,"{'typepoint': {'type': 'Point', 'coordinates': [40.748988, -73.982415]}}",POINT (-73.982415 40.748988),starbucks
+34,Starbucks,40.750322,-73.976964,"{'typepoint': {'type': 'Point', 'coordinates': [40.750322, -73.976964]}}",POINT (-73.976964 40.750322),starbucks
+35,Starbucks,40.748376,-73.985099,"{'typepoint': {'type': 'Point', 'coordinates': [40.748376, -73.985099]}}",POINT (-73.985099 40.748376),starbucks
+36,Starbucks,40.755117,-73.979248,"{'typepoint': {'type': 'Point', 'coordinates': [40.755117, -73.979248]}}",POINT (-73.979248 40.755117),starbucks
+37,Starbucks,40.764052,-73.982087,"{'typepoint': {'type': 'Point', 'coordinates': [40.764052, -73.982087]}}",POINT (-73.982087 40.764052),starbucks
+38,Starbucks,40.759362,-73.96989,"{'typepoint': {'type': 'Point', 'coordinates': [40.759362, -73.96989]}}",POINT (-73.96989 40.759362),starbucks
+39,Starbucks,40.751831,-73.987758,"{'typepoint': {'type': 'Point', 'coordinates': [40.751831, -73.987758]}}",POINT (-73.987758 40.751831),starbucks
+40,Starbucks,40.751602,-73.97352,"{'typepoint': {'type': 'Point', 'coordinates': [40.751602, -73.97352]}}",POINT (-73.97352 40.751602),starbucks
+41,Starbucks Machine,40.755648,-73.977772,"{'typepoint': {'type': 'Point', 'coordinates': [40.755648, -73.977772]}}",POINT (-73.977772 40.755648),starbucks
+42,Starbucks,40.755117,-73.979248,"{'typepoint': {'type': 'Point', 'coordinates': [40.755117, -73.979248]}}",POINT (-73.979248 40.755117),starbucks
+43,Starbucks,40.755525,-73.980137,"{'typepoint': {'type': 'Point', 'coordinates': [40.755525, -73.980137]}}",POINT (-73.980137 40.755525),starbucks
+44,Starbucks,40.764052,-73.982087,"{'typepoint': {'type': 'Point', 'coordinates': [40.764052, -73.982087]}}",POINT (-73.982087 40.764052),starbucks
+45,Starbucks,40.759362,-73.96989,"{'typepoint': {'type': 'Point', 'coordinates': [40.759362, -73.96989]}}",POINT (-73.96989 40.759362),starbucks
+46,Starbucks,40.751831,-73.987758,"{'typepoint': {'type': 'Point', 'coordinates': [40.751831, -73.987758]}}",POINT (-73.987758 40.751831),starbucks
+47,Starbucks,40.751602,-73.97352,"{'typepoint': {'type': 'Point', 'coordinates': [40.751602, -73.97352]}}",POINT (-73.97352 40.751602),starbucks
+48,Starbucks Pickup Amazon Go,40.756091,-73.990276,"{'typepoint': {'type': 'Point', 'coordinates': [40.756091, -73.990276]}}",POINT (-73.990276 40.756091),starbucks
+49,Starbucks,40.752961,-73.985148,"{'typepoint': {'type': 'Point', 'coordinates': [40.752961, -73.985148]}}",POINT (-73.985148 40.752961),starbucks
+0,Sweetgreen,40.752533,-73.987009,"{'typepoint': {'type': 'Point', 'coordinates': [40.752533, -73.987009]}}",POINT (-73.987009 40.752533),vegan
+1,Beyond Sushi Herald Square,40.752383,-73.988576,"{'typepoint': {'type': 'Point', 'coordinates': [40.752383, -73.988576]}}",POINT (-73.988576 40.752383),vegan
+2,Beyond Sushi,40.763269,-73.97712,"{'typepoint': {'type': 'Point', 'coordinates': [40.763269, -73.97712]}}",POINT (-73.97712 40.763269),vegan
+3,Le Botaniste,40.751306,-73.974513,"{'typepoint': {'type': 'Point', 'coordinates': [40.751306, -73.974513]}}",POINT (-73.974513 40.751306),vegan
+4,Franchia,40.747505,-73.981396,"{'typepoint': {'type': 'Point', 'coordinates': [40.747505, -73.981396]}}",POINT (-73.981396 40.747505),vegan
+5,Amata,40.75938,-73.967226,"{'typepoint': {'type': 'Point', 'coordinates': [40.75938, -73.967226]}}",POINT (-73.967226 40.75938),vegan
+6,Sweetgreen,40.744935,-73.988633,"{'typepoint': {'type': 'Point', 'coordinates': [40.744935, -73.988633]}}",POINT (-73.988633 40.744935),vegan
+7,Hangawi,40.746764,-73.984862,"{'typepoint': {'type': 'Point', 'coordinates': [40.746764, -73.984862]}}",POINT (-73.984862 40.746764),vegan
+8,Le Botaniste,40.765083,-73.965831,"{'typepoint': {'type': 'Point', 'coordinates': [40.765083, -73.965831]}}",POINT (-73.965831 40.765083),vegan
+9,Sweetgreen,40.76042,-73.972683,"{'typepoint': {'type': 'Point', 'coordinates': [40.76042, -73.972683]}}",POINT (-73.972683 40.76042),vegan
+10,Planta Queen,40.74441,-73.988319,"{'typepoint': {'type': 'Point', 'coordinates': [40.74441, -73.988319]}}",POINT (-73.988319 40.74441),vegan
+11,Juicy Cube,40.760224,-73.969924,"{'typepoint': {'type': 'Point', 'coordinates': [40.760224, -73.969924]}}",POINT (-73.969924 40.760224),vegan
+12,Sweetgreen,40.738172,-73.991337,"{'typepoint': {'type': 'Point', 'coordinates': [40.738172, -73.991337]}}",POINT (-73.991337 40.738172),vegan
+13,Sweetgreen,40.767052,-73.956819,"{'typepoint': {'type': 'Point', 'coordinates': [40.767052, -73.956819]}}",POINT (-73.956819 40.767052),vegan
+14,Sweetgreen,40.752639,-74.001035,"{'typepoint': {'type': 'Point', 'coordinates': [40.752639, -74.001035]}}",POINT (-74.001035 40.752639),vegan
+15,Sweetgreen,40.733936,-73.992393,"{'typepoint': {'type': 'Point', 'coordinates': [40.733936, -73.992393]}}",POINT (-73.992393 40.733936),vegan
+16,Sweetgreen,40.739288,-74.005879,"{'typepoint': {'type': 'Point', 'coordinates': [40.739288, -74.005879]}}",POINT (-74.005879 40.739288),vegan
+17,Sweetgreen,40.780187,-73.980184,"{'typepoint': {'type': 'Point', 'coordinates': [40.780187, -73.980184]}}",POINT (-73.980184 40.780187),vegan
+18,Juice Press,40.739165,-74.002468,"{'typepoint': {'type': 'Point', 'coordinates': [40.739165, -74.002468]}}",POINT (-74.002468 40.739165),vegan
+19,Hummus Place,40.780075,-73.980366,"{'typepoint': {'type': 'Point', 'coordinates': [40.780075, -73.980366]}}",POINT (-73.980366 40.780075),vegan
+20,Sweetgreen,40.754493,-73.976384,"{'typepoint': {'type': 'Point', 'coordinates': [40.754493, -73.976384]}}",POINT (-73.976384 40.754493),vegan
+21,Peacefood Café,40.73333,-73.99285,"{'typepoint': {'type': 'Point', 'coordinates': [40.73333, -73.99285]}}",POINT (-73.99285 40.73333),vegan
+22,Bagel Express,40.749946,-73.976906,"{'typepoint': {'type': 'Point', 'coordinates': [40.749946, -73.976906]}}",POINT (-73.976906 40.749946),vegan
+23,Adyar Anand Bhavans Pvt,40.759291,-73.962504,"{'typepoint': {'type': 'Point', 'coordinates': [40.759291, -73.962504]}}",POINT (-73.962504 40.759291),vegan
+24,Just Salad,40.746252,-73.993795,"{'typepoint': {'type': 'Point', 'coordinates': [40.746252, -73.993795]}}",POINT (-73.993795 40.746252),vegan
+25,Sweetgreen,40.765137,-73.981868,"{'typepoint': {'type': 'Point', 'coordinates': [40.765137, -73.981868]}}",POINT (-73.981868 40.765137),vegan
+26,Sweetgreen,40.774374,-73.980683,"{'typepoint': {'type': 'Point', 'coordinates': [40.774374, -73.980683]}}",POINT (-73.980683 40.774374),vegan
+27,Roast Kitchen,40.761287,-73.972542,"{'typepoint': {'type': 'Point', 'coordinates': [40.761287, -73.972542]}}",POINT (-73.972542 40.761287),vegan
+28,Ginger Root,40.762391,-73.959566,"{'typepoint': {'type': 'Point', 'coordinates': [40.762391, -73.959566]}}",POINT (-73.959566 40.762391),vegan
+29,Sweetgreen,40.76374,-73.967614,"{'typepoint': {'type': 'Point', 'coordinates': [40.76374, -73.967614]}}",POINT (-73.967614 40.76374),vegan
+30,Le Botaniste,40.774213,-73.981523,"{'typepoint': {'type': 'Point', 'coordinates': [40.774213, -73.981523]}}",POINT (-73.981523 40.774213),vegan
+31,Coletta,40.740882,-73.981284,"{'typepoint': {'type': 'Point', 'coordinates': [40.740882, -73.981284]}}",POINT (-73.981284 40.740882),vegan
+32,Nanoosh,40.758847,-73.979,"{'typepoint': {'type': 'Point', 'coordinates': [40.758847, -73.979]}}",POINT (-73.979 40.758847),vegan
+33,Just Salad,40.740642,-73.985801,"{'typepoint': {'type': 'Point', 'coordinates': [40.740642, -73.985801]}}",POINT (-73.985801 40.740642),vegan
+34,Sweetgreen,40.746291,-73.982397,"{'typepoint': {'type': 'Point', 'coordinates': [40.746291, -73.982397]}}",POINT (-73.982397 40.746291),vegan
+35,Just Salad,40.760476,-73.978627,"{'typepoint': {'type': 'Point', 'coordinates': [40.760476, -73.978627]}}",POINT (-73.978627 40.760476),vegan
+36,El Rancho Burritos,40.760359,-73.990943,"{'typepoint': {'type': 'Point', 'coordinates': [40.760359, -73.990943]}}",POINT (-73.990943 40.760359),vegan
+37,Five Star Banquet & Restaurant,40.750993,-73.945935,"{'typepoint': {'type': 'Point', 'coordinates': [40.750993, -73.945935]}}",POINT (-73.945935 40.750993),vegan
+38,Sweetgreen,40.752177,-73.974197,"{'typepoint': {'type': 'Point', 'coordinates': [40.752177, -73.974197]}}",POINT (-73.974197 40.752177),vegan
+39,Green Blend Ny,40.749219,-73.995833,"{'typepoint': {'type': 'Point', 'coordinates': [40.749219, -73.995833]}}",POINT (-73.995833 40.749219),vegan
+40,Muscle Maker Grill,40.762995,-73.993231,"{'typepoint': {'type': 'Point', 'coordinates': [40.762995, -73.993231]}}",POINT (-73.993231 40.762995),vegan
+41,Beyond Sushi,40.77527,-73.956262,"{'typepoint': {'type': 'Point', 'coordinates': [40.77527, -73.956262]}}",POINT (-73.956262 40.77527),vegan
+42,Just Salad,40.777554,-73.981742,"{'typepoint': {'type': 'Point', 'coordinates': [40.777554, -73.981742]}}",POINT (-73.981742 40.777554),vegan
+43,The Little Beet,40.751597,-73.977713,"{'typepoint': {'type': 'Point', 'coordinates': [40.751597, -73.977713]}}",POINT (-73.977713 40.751597),vegan
+44,OMV! Vegan Burgers & More,40.757925,-73.985168,"{'typepoint': {'type': 'Point', 'coordinates': [40.757925, -73.985168]}}",POINT (-73.985168 40.757925),vegan
+45,The Chick Shop,40.755402,-73.970654,"{'typepoint': {'type': 'Point', 'coordinates': [40.755402, -73.970654]}}",POINT (-73.970654 40.755402),vegan
+46,by CHLOE,40.759008,-73.971012,"{'typepoint': {'type': 'Point', 'coordinates': [40.759008, -73.971012]}}",POINT (-73.971012 40.759008),vegan
+47,Just Salad,40.762836,-73.97822,"{'typepoint': {'type': 'Point', 'coordinates': [40.762836, -73.97822]}}",POINT (-73.97822 40.762836),vegan
+48,Nuleaf,40.76383,-73.984846,"{'typepoint': {'type': 'Point', 'coordinates': [40.76383, -73.984846]}}",POINT (-73.984846 40.76383),vegan
+49,Plant Bar NYC,40.746394,-73.988303,"{'typepoint': {'type': 'Point', 'coordinates': [40.746394, -73.988303]}}",POINT (-73.988303 40.746394),vegan
+0,BeastyFeast,40.740583,-74.003878,"{'typepoint': {'type': 'Point', 'coordinates': [40.740583, -74.003878]}}",POINT (-74.003878 40.740583),petcare
+1,Doggy Style NYC,40.732593,-73.994174,"{'typepoint': {'type': 'Point', 'coordinates': [40.732593, -73.994174]}}",POINT (-73.994174 40.732593),petcare
+2,New York Dog Spa & Hotel,40.743533,-73.990631,"{'typepoint': {'type': 'Point', 'coordinates': [40.743533, -73.990631]}}",POINT (-73.990631 40.743533),petcare
+3,Walter's Pet Styles,40.745053,-73.978287,"{'typepoint': {'type': 'Point', 'coordinates': [40.745053, -73.978287]}}",POINT (-73.978287 40.745053),petcare
+4,Pet Central,40.738653,-73.995504,"{'typepoint': {'type': 'Point', 'coordinates': [40.738653, -73.995504]}}",POINT (-73.995504 40.738653),petcare
+5,D is for Doggy,40.742921,-73.99528,"{'typepoint': {'type': 'Point', 'coordinates': [40.742921, -73.99528]}}",POINT (-73.99528 40.742921),petcare
+6,Towne House Grooming & Pet Supplies,40.746258,-73.997551,"{'typepoint': {'type': 'Point', 'coordinates': [40.746258, -73.997551]}}",POINT (-73.997551 40.746258),petcare
+7,Ruby & Jack's Doggy Shack,40.761313,-73.963544,"{'typepoint': {'type': 'Point', 'coordinates': [40.761313, -73.963544]}}",POINT (-73.963544 40.761313),petcare
+8,Biscuits & Bath,40.736371,-73.996113,"{'typepoint': {'type': 'Point', 'coordinates': [40.736371, -73.996113]}}",POINT (-73.996113 40.736371),petcare
+9,Biscuits & Bath,40.773326,-73.952254,"{'typepoint': {'type': 'Point', 'coordinates': [40.773326, -73.952254]}}",POINT (-73.952254 40.773326),petcare
+10,Bark Place,40.768922,-73.955493,"{'typepoint': {'type': 'Point', 'coordinates': [40.768922, -73.955493]}}",POINT (-73.955493 40.768922),petcare
+11,Dog House Club,40.747813,-73.973984,"{'typepoint': {'type': 'Point', 'coordinates': [40.747813, -73.973984]}}",POINT (-73.973984 40.747813),petcare
+12,Reme's Oggi Pets,40.75687,-73.964245,"{'typepoint': {'type': 'Point', 'coordinates': [40.75687, -73.964245]}}",POINT (-73.964245 40.75687),petcare
+13,Dog City,40.759074,-73.994562,"{'typepoint': {'type': 'Point', 'coordinates': [40.759074, -73.994562]}}",POINT (-73.994562 40.759074),petcare
+14,The Dog Store,40.762966,-73.966317,"{'typepoint': {'type': 'Point', 'coordinates': [40.762966, -73.966317]}}",POINT (-73.966317 40.762966),petcare
+15,Pet Ark,40.760514,-73.995186,"{'typepoint': {'type': 'Point', 'coordinates': [40.760514, -73.995186]}}",POINT (-73.995186 40.760514),petcare
+16,Behind The Scenes Grooming,40.746889,-73.992204,"{'typepoint': {'type': 'Point', 'coordinates': [40.746889, -73.992204]}}",POINT (-73.992204 40.746889),petcare
+17,Canine Retreat by AKC - East 60,40.760773,-73.961557,"{'typepoint': {'type': 'Point', 'coordinates': [40.760773, -73.961557]}}",POINT (-73.961557 40.760773),petcare
+18,Puppy Loft,40.746792,-73.995781,"{'typepoint': {'type': 'Point', 'coordinates': [40.746792, -73.995781]}}",POINT (-73.995781 40.746792),petcare
+19,American Academy of Pet Grooming,40.739934,-73.982061,"{'typepoint': {'type': 'Point', 'coordinates': [40.739934, -73.982061]}}",POINT (-73.982061 40.739934),petcare
+20,New York School of Dog Grooming,40.73978,-73.979784,"{'typepoint': {'type': 'Point', 'coordinates': [40.73978, -73.979784]}}",POINT (-73.979784 40.73978),petcare
+21,Biscuits & Bath,40.771916,-73.988644,"{'typepoint': {'type': 'Point', 'coordinates': [40.771916, -73.988644]}}",POINT (-73.988644 40.771916),petcare
+22,Canine Retreat by AKC,40.741989,-73.995811,"{'typepoint': {'type': 'Point', 'coordinates': [40.741989, -73.995811]}}",POINT (-73.995811 40.741989),petcare
+23,Puppy Tale Lodge,40.767292,-73.958839,"{'typepoint': {'type': 'Point', 'coordinates': [40.767292, -73.958839]}}",POINT (-73.958839 40.767292),petcare
+24,Pooches Sport & Spa,40.745187,-73.957242,"{'typepoint': {'type': 'Point', 'coordinates': [40.745187, -73.957242]}}",POINT (-73.957242 40.745187),petcare
+25,Downtown Doghouse,40.744672,-74.002336,"{'typepoint': {'type': 'Point', 'coordinates': [40.744672, -74.002336]}}",POINT (-74.002336 40.744672),petcare
+26,Releash NYC,40.775666,-73.989665,"{'typepoint': {'type': 'Point', 'coordinates': [40.775666, -73.989665]}}",POINT (-73.989665 40.775666),petcare
+27,Happy Dogs Long Island City,40.742949,-73.956195,"{'typepoint': {'type': 'Point', 'coordinates': [40.742949, -73.956195]}}",POINT (-73.956195 40.742949),petcare
+28,Max Tamara's 75th and paws,40.771064,-73.958153,"{'typepoint': {'type': 'Point', 'coordinates': [40.771064, -73.958153]}}",POINT (-73.958153 40.771064),petcare
+29,Furry Paws,40.768498,-73.955214,"{'typepoint': {'type': 'Point', 'coordinates': [40.768498, -73.955214]}}",POINT (-73.955214 40.768498),petcare
+30,Finishing Touches by Stephanie,40.770025,-73.956628,"{'typepoint': {'type': 'Point', 'coordinates': [40.770025, -73.956628]}}",POINT (-73.956628 40.770025),petcare
+31,Mutt Hutt,40.779124,-73.983551,"{'typepoint': {'type': 'Point', 'coordinates': [40.779124, -73.983551]}}",POINT (-73.983551 40.779124),petcare
+32,Urban Woof NYC,40.772176,-73.954919,"{'typepoint': {'type': 'Point', 'coordinates': [40.772176, -73.954919]}}",POINT (-73.954919 40.772176),petcare
+33,Curley Care,40.755353,-73.968468,"{'typepoint': {'type': 'Point', 'coordinates': [40.755353, -73.968468]}}",POINT (-73.968468 40.755353),petcare
+34,Petaholics,40.761463,-73.970015,"{'typepoint': {'type': 'Point', 'coordinates': [40.761463, -73.970015]}}",POINT (-73.970015 40.761463),petcare
+35,Parker's Doghouse,40.757705,-73.991319,"{'typepoint': {'type': 'Point', 'coordinates': [40.757705, -73.991319]}}",POINT (-73.991319 40.757705),petcare
+36,Pet Chauffeur,40.746552,-73.97673,"{'typepoint': {'type': 'Point', 'coordinates': [40.746552, -73.97673]}}",POINT (-73.97673 40.746552),petcare
+37,Return-A-Pet,40.746635,-73.985643,"{'typepoint': {'type': 'Point', 'coordinates': [40.746635, -73.985643]}}",POINT (-73.985643 40.746635),petcare
+38,Hair Of The Dog,40.760281,-73.96381,"{'typepoint': {'type': 'Point', 'coordinates': [40.760281, -73.96381]}}",POINT (-73.96381 40.760281),petcare
+39,Urban Dog Spa,40.743422,-73.990714,"{'typepoint': {'type': 'Point', 'coordinates': [40.743422, -73.990714]}}",POINT (-73.990714 40.743422),petcare
+40,The Spot Experience - Mercedes House,40.767628,-73.991534,"{'typepoint': {'type': 'Point', 'coordinates': [40.767628, -73.991534]}}",POINT (-73.991534 40.767628),petcare
+41,Canine Retreat by AKC - West 42,40.760944,-73.999223,"{'typepoint': {'type': 'Point', 'coordinates': [40.760944, -73.999223]}}",POINT (-73.999223 40.760944),petcare
+42,Spot Canine Club - Midtown West,40.760944,-73.999223,"{'typepoint': {'type': 'Point', 'coordinates': [40.760944, -73.999223]}}",POINT (-73.999223 40.760944),petcare
+43,Bucks Place New York,40.746148,-73.997634,"{'typepoint': {'type': 'Point', 'coordinates': [40.746148, -73.997634]}}",POINT (-73.997634 40.746148),petcare
+44,Pampered Pets,40.768228,-73.963287,"{'typepoint': {'type': 'Point', 'coordinates': [40.768228, -73.963287]}}",POINT (-73.963287 40.768228),petcare
+45,Trixie + Peanut,40.739142,-73.98941,"{'typepoint': {'type': 'Point', 'coordinates': [40.739142, -73.98941]}}",POINT (-73.98941 40.739142),petcare
+46,Citipups,40.742925,-73.999123,"{'typepoint': {'type': 'Point', 'coordinates': [40.742925, -73.999123]}}",POINT (-73.999123 40.742925),petcare
+47,Oliver and Company Pet Services,40.777406,-73.979201,"{'typepoint': {'type': 'Point', 'coordinates': [40.777406, -73.979201]}}",POINT (-73.979201 40.777406),petcare
+48,Training Cats and Dogs,40.739921,-74.000445,"{'typepoint': {'type': 'Point', 'coordinates': [40.739921, -74.000445]}}",POINT (-74.000445 40.739921),petcare
+49,Doggystyle NYC,40.732593,-73.994174,"{'typepoint': {'type': 'Point', 'coordinates': [40.732593, -73.994174]}}",POINT (-73.994174 40.732593),petcare
+0,Stuyvesant Town Basketball Courts,40.732345,-73.979407,"{'typepoint': {'type': 'Point', 'coordinates': [40.732345, -73.979407]}}",POINT (-73.979407 40.732345),basketball
+1,Riverside Park Basketball Courts,40.78276,-73.98483,"{'typepoint': {'type': 'Point', 'coordinates': [40.78276, -73.98483]}}",POINT (-73.98483 40.78276),basketball
+2,West 4th Street Courts,40.731228,-74.000757,"{'typepoint': {'type': 'Point', 'coordinates': [40.731228, -74.000757]}}",POINT (-74.000757 40.731228),basketball
+3,Rucker Park Basketball Courts,40.829736,-73.936358,"{'typepoint': {'type': 'Point', 'coordinates': [40.829736, -73.936358]}}",POINT (-73.936358 40.829736),basketball
+4,Basketball Courts,40.725705,-74.011409,"{'typepoint': {'type': 'Point', 'coordinates': [40.725705, -74.011409]}}",POINT (-74.011409 40.725705),basketball
+5,Jordan Terminal 23,40.749365,-73.990423,"{'typepoint': {'type': 'Point', 'coordinates': [40.749365, -73.990423]}}",POINT (-73.990423 40.749365),basketball
+6,Basketball Gym At The Dylan,40.746532,-73.985464,"{'typepoint': {'type': 'Point', 'coordinates': [40.746532, -73.985464]}}",POINT (-73.985464 40.746532),basketball
+7,UN Basketball Courts,40.748064,-73.968665,"{'typepoint': {'type': 'Point', 'coordinates': [40.748064, -73.968665]}}",POINT (-73.968665 40.748064),basketball
+8,Robert Moses Basketball Courts,40.748117,-73.968711,"{'typepoint': {'type': 'Point', 'coordinates': [40.748117, -73.968711]}}",POINT (-73.968711 40.748117),basketball
+9,ABC Hoops NYC Midtown West Arena,40.763658,-73.990679,"{'typepoint': {'type': 'Point', 'coordinates': [40.763658, -73.990679]}}",POINT (-73.990679 40.763658),basketball
+10,Madison Club,40.750471,-73.993437,"{'typepoint': {'type': 'Point', 'coordinates': [40.750471, -73.993437]}}",POINT (-73.993437 40.750471),basketball
+11,Basketball Court,40.768332,-73.989464,"{'typepoint': {'type': 'Point', 'coordinates': [40.768332, -73.989464]}}",POINT (-73.989464 40.768332),basketball
+12,Harborview Basketball Courts,40.768133,-73.990644,"{'typepoint': {'type': 'Point', 'coordinates': [40.768133, -73.990644]}}",POINT (-73.990644 40.768133),basketball
+13,Queensbridge Basketball Courts,40.755053,-73.949454,"{'typepoint': {'type': 'Point', 'coordinates': [40.755053, -73.949454]}}",POINT (-73.949454 40.755053),basketball
+14,Playground 9- Basketball Court/Sprinklers,40.732173,-73.979793,"{'typepoint': {'type': 'Point', 'coordinates': [40.732173, -73.979793]}}",POINT (-73.979793 40.732173),basketball
+15,Riverside South Basketball Courts,40.780844,-73.987814,"{'typepoint': {'type': 'Point', 'coordinates': [40.780844, -73.987814]}}",POINT (-73.987814 40.780844),basketball
+16,LINC Basketball Court,40.74865,-73.942745,"{'typepoint': {'type': 'Point', 'coordinates': [40.74865, -73.942745]}}",POINT (-73.942745 40.74865),basketball
+17,NY Urban Basketball,40.785851,-73.974286,"{'typepoint': {'type': 'Point', 'coordinates': [40.785851, -73.974286]}}",POINT (-73.974286 40.785851),basketball
+18,Houston Street Park,40.728919,-74.002325,"{'typepoint': {'type': 'Point', 'coordinates': [40.728919, -74.002325]}}",POINT (-74.002325 40.728919),basketball
+19,Basketball City - Trevor Day,40.78697,-73.968821,"{'typepoint': {'type': 'Point', 'coordinates': [40.78697, -73.968821]}}",POINT (-73.968821 40.78697),basketball

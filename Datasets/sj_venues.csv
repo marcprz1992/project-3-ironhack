@@ -1,0 +1,32 @@
+,name,lat,lon,type,geometry,category
+0,Norman Y. Mineta San Jose International Airport (SJC),37.367658,-121.927599,"{'typepoint': {'type': 'Point', 'coordinates': [37.367658, -121.927599]}}",POINT (-121.927599 37.367658),airport
+0,Starbucks,37.294686,-121.930967,"{'typepoint': {'type': 'Point', 'coordinates': [37.294686, -121.930967]}}",POINT (-121.930967 37.294686),starbucks
+1,Starbucks,37.292718,-121.930493,"{'typepoint': {'type': 'Point', 'coordinates': [37.292718, -121.930493]}}",POINT (-121.930493 37.292718),starbucks
+2,Starbucks,37.292718,-121.930493,"{'typepoint': {'type': 'Point', 'coordinates': [37.292718, -121.930493]}}",POINT (-121.930493 37.292718),starbucks
+0,Luna Mexican Kitchen,37.288215,-121.933326,"{'typepoint': {'type': 'Point', 'coordinates': [37.288215, -121.933326]}}",POINT (-121.933326 37.288215),vegan
+1,Live Food,37.296613,-121.950449,"{'typepoint': {'type': 'Point', 'coordinates': [37.296613, -121.950449]}}",POINT (-121.950449 37.296613),vegan
+0,Suzie's Pet Salon,37.287614,-121.940376,"{'typepoint': {'type': 'Point', 'coordinates': [37.287614, -121.940376]}}",POINT (-121.940376 37.287614),petcare
+1,The Dog Pawlor,37.300169,-121.951214,"{'typepoint': {'type': 'Point', 'coordinates': [37.300169, -121.951214]}}",POINT (-121.951214 37.300169),petcare
+2,Ken's Dog Grooming Salon,37.300141,-121.951141,"{'typepoint': {'type': 'Point', 'coordinates': [37.300141, -121.951141]}}",POINT (-121.951141 37.300141),petcare
+3,Barbara's Snip N' Clip,37.277642,-121.941625,"{'typepoint': {'type': 'Point', 'coordinates': [37.277642, -121.941625]}}",POINT (-121.941625 37.277642),petcare
+4,Lush Spaw,37.274596,-121.933234,"{'typepoint': {'type': 'Point', 'coordinates': [37.274596, -121.933234]}}",POINT (-121.933234 37.274596),petcare
+5,Julie's Birds & Boarding,37.274402,-121.932723,"{'typepoint': {'type': 'Point', 'coordinates': [37.274402, -121.932723]}}",POINT (-121.932723 37.274402),petcare
+6,Lush Spaw,37.314554,-121.949275,"{'typepoint': {'type': 'Point', 'coordinates': [37.314554, -121.949275]}}",POINT (-121.949275 37.314554),petcare
+7,Paws Crossing Pet Resort And Spa,37.274571,-121.950614,"{'typepoint': {'type': 'Point', 'coordinates': [37.274571, -121.950614]}}",POINT (-121.950614 37.274571),petcare
+8,Doggie Grooming Styles,37.287614,-121.940376,"{'typepoint': {'type': 'Point', 'coordinates': [37.287614, -121.940376]}}",POINT (-121.940376 37.287614),petcare
+9,Grooming by Tina and Kay,37.298236,-121.949321,"{'typepoint': {'type': 'Point', 'coordinates': [37.298236, -121.949321]}}",POINT (-121.949321 37.298236),petcare
+10,Dogs N Suds,37.269799,-121.93834,"{'typepoint': {'type': 'Point', 'coordinates': [37.269799, -121.93834]}}",POINT (-121.93834 37.269799),petcare
+11,Cambrian Kennels,37.272046,-121.945971,"{'typepoint': {'type': 'Point', 'coordinates': [37.272046, -121.945971]}}",POINT (-121.945971 37.272046),petcare
+0,eBay Sport Court,37.295168,-121.930196,"{'typepoint': {'type': 'Point', 'coordinates': [37.295168, -121.930196]}}",POINT (-121.930196 37.295168),basketball
+1,Park Kiely Sports Arena,37.319224,-121.977576,"{'typepoint': {'type': 'Point', 'coordinates': [37.319224, -121.977576]}}",POINT (-121.977576 37.319224),basketball
+2,Lone Hill Basketball Courts,37.243991,-121.90984,"{'typepoint': {'type': 'Point', 'coordinates': [37.243991, -121.90984]}}",POINT (-121.90984 37.243991),basketball
+3,Team Elite Basketball,37.309246,-121.857165,"{'typepoint': {'type': 'Point', 'coordinates': [37.309246, -121.857165]}}",POINT (-121.857165 37.309246),basketball
+4,Central Park Basketball Courts,37.342326,-121.976688,"{'typepoint': {'type': 'Point', 'coordinates': [37.342326, -121.976688]}}",POINT (-121.976688 37.342326),basketball
+5,Brocade Courts,37.36448,-121.915112,"{'typepoint': {'type': 'Point', 'coordinates': [37.36448, -121.915112]}}",POINT (-121.915112 37.36448),basketball
+6,Basketball Gym,37.371181,-121.91132,"{'typepoint': {'type': 'Point', 'coordinates': [37.371181, -121.91132]}}",POINT (-121.91132 37.371181),basketball
+7,eBay Basketball Court,37.376832,-121.922724,"{'typepoint': {'type': 'Point', 'coordinates': [37.376832, -121.922724]}}",POINT (-121.922724 37.376832),basketball
+8,Saratoga High Large Gym,37.266175,-122.029241,"{'typepoint': {'type': 'Point', 'coordinates': [37.266175, -122.029241]}}",POINT (-122.029241 37.266175),basketball
+9,Legarza Basketball Camp,37.328636,-122.026951,"{'typepoint': {'type': 'Point', 'coordinates': [37.328636, -122.026951]}}",POINT (-122.026951 37.328636),basketball
+10,Nike Basketball Court GIS,37.377125,-121.959471,"{'typepoint': {'type': 'Point', 'coordinates': [37.377125, -121.959471]}}",POINT (-121.959471 37.377125),basketball
+11,Apple - Basketball Court,37.331151,-122.029378,"{'typepoint': {'type': 'Point', 'coordinates': [37.331151, -122.029378]}}",POINT (-122.029378 37.331151),basketball
+12,Bellevue Park,37.311971,-121.872487,"{'typepoint': {'type': 'Point', 'coordinates': [37.311971, -121.872487]}}",POINT (-121.872487 37.311971),basketball
