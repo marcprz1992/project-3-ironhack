@@ -75,7 +75,7 @@ This seems more accurate! Let's see if this is also corresponding with the infor
 
 Okay - it seems to be! Given the current political inestability in Russia, let's focus our analysis in the US, especifically in New York, San Francisco & San Jose.
 
-Before jumping onto the next section, we need to get the actual coordinates of the companies within those areas so we can use those as point of reference to calculate distances. The below is an example of the information gathered for New York:
+Before jumping onto the next section, we need to get the actual coordinates of the companies within those areas, so we can use those as point of reference to calculate distances. The below is an example of the information gathered for New York:
 
 ![](Figures/screenshot5.PNG)
 
