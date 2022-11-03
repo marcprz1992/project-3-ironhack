@@ -59,7 +59,7 @@ The first two criteria have become the starting point for this analysis, so the 
 
 As per above, we got a good read from MongoDB via a company collection we had access to, so we could run some queries to filter the data by criteria 1 and 2. The following screenshot is an example of the output from this database:
 
-![](Figures/screenshot1.png)
+![](https://github.com/marcprz1992/project-3-ironhack/blob/main/Figures/screenshot1.PNG)
 
 Now with a new column added with the addition of all the offices grouped by actual company:
 
