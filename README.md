@@ -107,7 +107,7 @@ New York:
 
 San Francisco:
 
-![](Figures/screenshot10.png)
+![](Figures/screenshot10.PNG)
 
 San Jose:
 
