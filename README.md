@@ -59,25 +59,25 @@ The first two criteria have become the starting point for this analysis, so the 
 
 As per above, we got a good read from MongoDB via a company collection we had access to, so we could run some queries to filter the data by criteria 1 and 2. The following screenshot is an example of the output from this database:
 
-![](Figures/screenshot1.PNG)
+![](Figures/screenshot1.png)
 
 Now with a new column added with the addition of all the offices grouped by actual company:
 
-![](Figures/screenshot2.PNG)
+![](Figures/screenshot2.png)
 
 This information itself is not telling us much, so let's see if a dictionary summarising us the number of offices per city is giving us more insights:
 
-![](Figures/screenshot3.PNG)
+![](Figures/screenshot3.png)
 
 This seems more accurate! Let's see if this is also corresponding with the information by country:
 
-![](Figures/screenshot4.PNG)
+![](Figures/screenshot4.png)
 
 Okay - it seems to be! Given the current political inestability in Russia, let's focus our analysis in the US, especifically in New York, San Francisco & San Jose.
 
 Before jumping onto the next section, we need to get the actual coordinates of the companies within those areas, so we can use those as point of reference to calculate distances. The below is an example of the information gathered for New York:
 
-![](Figures/screenshot5.PNG)
+![](Figures/screenshot5.png)
 
 
 ## Gathering information from Foursquare API
@@ -88,15 +88,15 @@ Now that we have some coordinates to base our analysis on, we can explore the re
 
 Using the first coordinate across the three cities as well as using the respective request codes from Foursquare API, we can get to the following output for the NYC airports:
 
-![](Figures/screenshot6.PNG)
+![](Figures/screenshot6.png)
 
 Similar for San Francisco:
 
-![](Figures/screenshot7.PNG)
+![](Figures/screenshot7.png)
 
 And for San Jose:
 
-![](Figures/screenshot8.PNG)
+![](Figures/screenshot8.png)
 
 ## 2) Starbucks
 
@@ -104,43 +104,43 @@ Similar approach than for airports but this time to find the nearby Starbucks:
 
 New York:
 
-![](Figures/screenshot9.PNG)
+![](Figures/screenshot9.png)
 
 San Francisco:
 
-![](Figures/screenshot10.PNG)
+![](Figures/screenshot10.png)
 
 San Jose:
 
-![](Figures/screenshot11.PNG)
+![](Figures/screenshot11.png)
 
 ## 3) Vegan restaurants
 
 New York:
 
-![](Figures/screenshot12.PNG)
+![](Figures/screenshot12.png)
 
 San Francisco:
 
-![](Figures/screenshot13.PNG)
+![](Figures/screenshot13.png)
 
 San Jose:
 
-![](Figures/screenshot14.PNG)
+![](Figures/screenshot14.png)
 
 ## 4) Pet Grooming places
 
 New York:
 
-![](Figures/screenshot15.PNG)
+![](Figures/screenshot15.png)
 
 San Francisco:
 
-![](Figures/screenshot16.PNG)
+![](Figures/screenshot16.png)
 
 San Jose:
 
-![](Figures/screenshot17.PNG)
+![](Figures/screenshot17.png)
 
 ## 5) Basketball Stadiums
 
@@ -148,15 +148,15 @@ For this one, the actual basketball courts were also included as part of the ana
 
 New York:
 
-![](Figures/screenshot18.PNG)
+![](Figures/screenshot18.png)
 
 San Francisco:
 
-![](Figures/screenshot19.PNG)
+![](Figures/screenshot19.png)
 
 San Jose:
 
-![](Figures/screenshot20.PNG)
+![](Figures/screenshot20.png)
 
 ## Venues dataframe
 
@@ -164,15 +164,15 @@ Now that we have all the data needed, we can concatenate all the info so everyth
 
 New York:
 
-![](Figures/screenshot21.PNG)
+![](Figures/screenshot21.png)
 
 San Francisco:
 
-![](Figures/screenshot22.PNG)
+![](Figures/screenshot22.png)
 
 San Jose:
 
-![](Figures/screenshot23.PNG)
+![](Figures/screenshot23.png)
 
 ## Plotting everything together
 
@@ -191,17 +191,17 @@ The information on the map is good if you want to check how many venues are near
 Let's see if the distances using the "geopy" library help us make a decision as in which city we should go after:
 
 New York:
-![](Figures/screenshot24.PNG)
+![](Figures/screenshot24.png)
 
 San Francisco:
-![](Figures/screenshot25.PNG)
+![](Figures/screenshot25.png)
 
 San Jose:
-![](Figures/screenshot26.PNG)
+![](Figures/screenshot26.png)
 
 Now we can see the distance between each venue and the coordinates of a given company within each city, but let's see what the average distance of each venue is for each city:
 
-![](Figures/screenshot27.PNG)
+![](Figures/screenshot27.png)
 
 As expected, the airport is what each company within each city has most distance with, but for the rest of the criteria New York seems to be pretty much the best location for our office, so that's where we are going to! 
 
@@ -211,7 +211,7 @@ Now that we know the city, we also need to look at what neighbourhood we want to
 
 By using $geoIntersects on MongoDB NYC neighbourhoods collection, we are able to know the name of the area we want to be, which is Midtown-Midtown South Manhattan:
 
-![](Figures/screenshot28.PNG)
+![](Figures/screenshot28.png)
 
 Some web scraping has been done in the following [link](https://www.squarefoot.com/office-space/m/ny/new-york/635d40e4-ee2c-4144-8c95-040714888811?neighborhoods=88d9e668-b2fa-4ebe-a54e-488328f56823%2C487bd69c-8f9d-4441-895b-29d1d40afc17%2C82351707-ced7-4c44-aab6-f39347566197%2C5dc352b4-5a83-4b08-b1d7-bdd50fb85e79%2Ccde1e681-bff5-4c40-b96a-f5ba67354cfc%2Ce6657556-6c44-47e8-b825-f61d1a35896e%2C78edec76-bc46-4b67-8401-6697469f7fbd%2Cac7231b4-c3eb-4141-ad47-6799653ee1f2%2C94e3c05e-07b1-4ec2-9ce6-52de63e49ab0%2Cd6a095c6-cb75-4667-9b78-7ca8528498ee%2C7d2cfc8c-a753-449f-bb19-7054112af57e%2Cf5aa7229-00b5-42d8-9442-55f884ae1f3b&minOccupancy=86&maxOccupancy=120&page=2&activeSizeFilter=SEATS&groupByBuilding=false) so we can have a good guess on office availability as well as what renting prices currently look like.
 
@@ -219,7 +219,7 @@ Given the criteria of being in an office to accomodate c. 87 people, seems two o
 
 Annoyingly, there are no pictures to display yet for this ad:
 
-![](Figures/screenshot29.PNG)
+![](Figures/screenshot29.png)
 
 ## Conclusions
 
