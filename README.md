@@ -178,12 +178,17 @@ San Jose:
 
 We can now plot all the venues within each city in a map to compare their location vs. the main companies we initially targeted so we can have a first guess on how far things are.
 
-[New York map with venues](Maps/nyc_map_with_venues.html)
+[New York map with venues](https://rawcdn.githack.com/marcprz1992/project-3-ironhack/424e45e34eabd151a6a99fa903493ca1fa0b0e6e/Maps/nyc_map_with_venues.html)
 
-[San Francisco map with venues](Maps/sf_map_with_venues.html)
+![](Figures/screenshot30.PNG)
 
-[San Jose map with venues](Maps/sj_map_with_venues.html)
+[San Francisco map with venues](https://rawcdn.githack.com/marcprz1992/project-3-ironhack/424e45e34eabd151a6a99fa903493ca1fa0b0e6e/Maps/sf_map_with_venues.html)
 
+![](Figures/screenshot32.PNG)
+
+[San Jose map with venues](https://rawcdn.githack.com/marcprz1992/project-3-ironhack/424e45e34eabd151a6a99fa903493ca1fa0b0e6e/Maps/sj_map_with_venues.html)
+
+![](Figures/screenshot31.PNG)
 ## Calculating the actual distance
 
 The information on the map is good if you want to check how many venues are nearby, but it's very difficult to get the actual distance vs. the first company's coordinates we took from each city.
